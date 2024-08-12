@@ -2,7 +2,7 @@
 ###### Competition Project  https://codalab.lisn.upsaclay.fr/competitions/7124 
 ##### https://github.com/rewire-online/edos
 
-### Used dataset: https://drive.google.com/file/d/1CEPXTzO_cBPiBWQofnyAjmolAUlLIB-N/view 
+##### Used dataset: https://drive.google.com/file/d/1CEPXTzO_cBPiBWQofnyAjmolAUlLIB-N/view 
 Sexism is a growing problem online. It can inflict harm on women who are targeted, make online
 spaces inaccessible and unwelcoming, and perpetuate social asymmetries and injustices.
 Automated tools are now widely deployed to find, and assess sexist content at scale but most
@@ -15,8 +15,7 @@ more accurate as well as explainable, with fine-grained classifications for sexi
 Gab and Reddit.
 
 #### The task contains three hierarchical subtasks:
-##### TASK A - Binary Sexism Detection: a two-class (or binary) classification where systems have to
-predict whether a post is sexist or not sexist.
+##### TASK A - Binary Sexism Detection: a two-class (or binary) classification where systems have to predict whether a post is sexist or not sexist.
 ##### TASK B - Category of Sexism: for posts which are sexist, a four-class classification where
 systems have to predict one of four categories: (1) threats, (2) derogation, (3) animosity, (4)
 prejudiced discussions.
